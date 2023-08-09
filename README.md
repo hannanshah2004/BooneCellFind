@@ -6,6 +6,6 @@ Standard python web scraper that searches through boone county jail registrar an
 
 csv, requests, and beautifulsoup
 
-#County Jail Link
+# County Jail Link
 
 https://report.boonecountymo.org/mrcjava/servlet/RMS01_MP.I00030s
